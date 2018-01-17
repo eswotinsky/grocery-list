@@ -1,0 +1,19 @@
+h1 {
+  text-align: center;
+  color: green;
+}
+
+img {
+  width: 25%;
+  height: 25%;
+}
+
+body {
+  background-color: #FFFACD;
+  text-align: center;
+}
+
+#displayList {
+  background-color: green;
+  color: white;
+}
